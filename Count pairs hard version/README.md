@@ -10,7 +10,7 @@
 <h3 align="center"> Output </h3>
 
 <p align="center">
-  <img src="../img/CountPairsHardVersionOutput.png.png" />
+  <img src="../img/CountPairsHardVersionOutput.png" />
 </p>
 <p/>
 
