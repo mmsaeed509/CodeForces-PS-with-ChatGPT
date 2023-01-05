@@ -1,4 +1,4 @@
-<h3 align="center"> Problem </h3>
+<h3 align="center"> Game Of Powers </h3>
 
 <p align="center">
   <img src="/img/GameOfPowers.png" />
@@ -14,6 +14,7 @@
 </p>
 <p/>
 
+<h3 align="center"> Code explanation </h3>
 
 To solve this problem, you can use the following approach:
 

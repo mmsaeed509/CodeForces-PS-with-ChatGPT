@@ -1,4 +1,4 @@
-<h3 align="center"> Problem </h3>
+<h3 align="center"> Palindromic String </h3>
 
 <p align="center">
   <img src="/img/PalindromicString.png" />
@@ -15,8 +15,9 @@
 </p>
 <p/>
 
+<h3 align="center"> Code explanation </h3>
 
-To solve this problem in O(n^3 * log(n)) time or lower, we can use the following approach:
+To solve this problem in ` O(n^3 * log(n)) ` time or lower, we can use the following approach:
 
 - First, we can initialize a set valid to store the `valid` characters. We can then add all the valid characters to this set for fast membership checking.
 - Next, we can iterate over all substrings of `s` and check if the substring is a palindrome and consists only of valid characters. If it is, we can update the maximum length palindrome substring found so far. 
