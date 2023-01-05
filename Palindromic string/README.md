@@ -1,7 +1,7 @@
 <h3 align="center"> Palindromic String </h3>
 
 <p align="center">
-  <img src="/img/PalindromicString.png" />
+  <img src="../img/PalindromicString.png" />
 </p>
 <p/>
 
@@ -11,7 +11,7 @@
 <h3 align="center"> Output </h3>
 
 <p align="center">
-  <img src="/img/PalindromicStringOutput.png" />
+  <img src="../img/PalindromicStringOutput.png" />
 </p>
 <p/>
 

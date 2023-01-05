@@ -1,7 +1,7 @@
 <h3 align="center"> Count Pairs Hard Version </h3>
 
 <p align="center">
-  <img src="/img/CountPairsHardVersion.png" />
+  <img src="../img/CountPairsHardVersion.png" />
 </p>
 <p/>
 
@@ -10,7 +10,7 @@
 <h3 align="center"> Output </h3>
 
 <p align="center">
-  <img src="/img/CountPairsHardVersionOutput.png.png" />
+  <img src="../img/CountPairsHardVersionOutput.png.png" />
 </p>
 <p/>
 

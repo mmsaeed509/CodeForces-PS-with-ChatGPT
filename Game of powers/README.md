@@ -1,7 +1,7 @@
 <h3 align="center"> Game Of Powers </h3>
 
 <p align="center">
-  <img src="/img/GameOfPowers.png" />
+  <img src="../img/GameOfPowers.png" />
 </p>
 <p/>
 
@@ -10,7 +10,7 @@
 <h3 align="center"> Output </h3>
 
 <p align="center">
-  <img src="/img/GameOfPowersOutput.png" />
+  <img src="../img/GameOfPowersOutput.png" />
 </p>
 <p/>
 
