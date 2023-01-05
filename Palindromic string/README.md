@@ -1,11 +1,20 @@
 <h3 align="center"> Problem </h3>
 
-<img src="../img/PalindromicString.png" alt="PalindromicString" align="center">
+<p align="center">
+  <img src="/img/PalindromicString.png" />
+</p>
+<p/>
+
+
 
 
 <h3 align="center"> Output </h3>
 
-<img src="../img/PalindromicStringOutput.png" alt="PalindromicStringOutput" align="center">
+<p align="center">
+  <img src="/img/PalindromicStringOutput.png" />
+</p>
+<p/>
+
 
 To solve this problem in O(n^3 * log(n)) time or lower, we can use the following approach:
 

@@ -1,11 +1,19 @@
 <h3 align="center"> Problem </h3>
 
-<img src="../img/GameOfPowers.png" alt="GameOfPowers" align="center">
+<p align="center">
+  <img src="/img/GameOfPowers.png" />
+</p>
+<p/>
+
 
 
 <h3 align="center"> Output </h3>
 
-<img src="../img/GameOfPowersOutput.png" alt="GameOfPowersOutput" align="center">
+<p align="center">
+  <img src="/img/GameOfPowersOutput.png" />
+</p>
+<p/>
+
 
 To solve this problem, you can use the following approach:
 
